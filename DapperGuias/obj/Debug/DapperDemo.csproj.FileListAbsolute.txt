@@ -1,0 +1,75 @@
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\bin\Debug\DapperDemo.exe.config
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\bin\Debug\DapperDemo.exe
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\bin\Debug\DapperDemo.pdb
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\bin\Debug\AccesoDatos.dll
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\bin\Debug\Dapper.dll
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\bin\Debug\AccesoDatos.pdb
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\bin\Debug\Dapper.xml
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.csproj.AssemblyReference.cache
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.Form1.resources
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.Properties.Resources.resources
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.csproj.GenerateResource.cache
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.csproj.CopyComplete
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.exe
+C:\Users\darks\source\repos\JosueCast\DapperDesde0\DapperDemo\obj\Debug\DapperDemo.pdb
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe.config
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.pdb
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.dll
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\bin\Debug\Dapper.dll
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.pdb
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\bin\Debug\Dapper.xml
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.AssemblyReference.cache
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Form1.resources
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Properties.Resources.resources
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.GenerateResource.cache
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.CopyComplete
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.exe
+C:\Users\darks\Desktop\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.pdb
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe.config
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.pdb
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.dll
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\bin\Debug\Dapper.dll
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.pdb
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\bin\Debug\Dapper.xml
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.AssemblyReference.cache
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Form1.resources
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Properties.Resources.resources
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.GenerateResource.cache
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.CopyComplete
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.exe
+C:\Users\darks\Desktop\Actividad de Progra\Insertar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.pdb
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe.config
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.pdb
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.dll
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\bin\Debug\Dapper.dll
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.pdb
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\bin\Debug\Dapper.xml
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.AssemblyReference.cache
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Form1.resources
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Properties.Resources.resources
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.GenerateResource.cache
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.CopyComplete
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.exe
+C:\Users\darks\Desktop\Actividad de Progra\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.pdb
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe.config
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.exe
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\bin\Debug\DapperDemo.pdb
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.dll
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\bin\Debug\Dapper.dll
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\bin\Debug\AccesoDatos.pdb
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\bin\Debug\Dapper.xml
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.csproj.Up2Date
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.exe
+C:\Users\MINEDUCYT\Desktop\Actualizar\DapperDesde0\DapperGuias\obj\Debug\DapperDemo.pdb
